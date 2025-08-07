@@ -1,2 +1,2 @@
 # Testing
-Repositorio para testear programas en diversos lenguajes de código
+Quiero aprender a codear, por lo tanto que mejor forma que crear cosas útiles para mí
